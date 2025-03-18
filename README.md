@@ -1,6 +1,6 @@
 <!-- Animated GIF at the Start -->
 <p align="center">
-  <img src="missed-youre-late.gif" width="350" height="350"  style="border-radius: 50%;" alt="You Are Late GIF">
+  <img src="missed-youre-late.gif" width="650" height="250"  style="border-radius: 50%;" alt="You Are Late GIF">
 </p>
 
 # 🚍 No More Waiting & Losing a Bus!  
