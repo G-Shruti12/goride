@@ -13,22 +13,19 @@
 
 ---
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#key-features">Key Features</a></li>
-    <li><a href="#how-it-works">How It Works</a></li>
-    <li><a href="#team-members">Team Members</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-  </ol>
-</details>
+## 📚 Table of Contents
+
+- [About The Project](#about-the-project)
+- [Built With](#built-with)
+- [Key Features](#key-features)
+- [How It Works](#how-it-works)
+- [Team Members](#team-members)
+- [Contact](#contact)
+- [Roadmap](#roadmap)
 
 ---
 
-## 📌 About The Project
+## About The Project
 
 <p align="center">
   <img src="images/missed-youre-late.gif" width="650" height="350" alt="You're Late GIF">
@@ -44,22 +41,22 @@ GoRide is a smart bus navigation system designed to help people book and track b
 
 > Stay on track, save time, and never miss your bus again!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[🔝 Back to Top](#readme-top)
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[🔝 Back to Top](#readme-top)
 
 ---
 
-## 💡 Key Features
+## Key Features
 
 ### 🏙️ Bus Route Management  
 - ✔ Easily search and manage bus routes.  
@@ -69,21 +66,21 @@ GoRide is a smart bus navigation system designed to help people book and track b
 - ✔ Turn-by-turn guidance for efficient travel.  
 - ✔ Live tracking so you never miss your bus!  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[🔝 Back to Top](#readme-top)
 
 ---
 
-## 🎯 How It Works
+## How It Works
 
 1️⃣ **Search** for your bus route.  
 2️⃣ Get **live tracking** updates.  
 3️⃣ **Navigate** with real-time directions.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[🔝 Back to Top](#readme-top)
 
 ---
 
-## 👩‍💻 Team Members
+## Team Members
 
 [![Contributors](https://contrib.rocks/image?repo=shruti0781/go_ride)](https://github.com/shruti0781/go_ride/graphs/contributors)
 
@@ -91,19 +88,20 @@ GoRide is a smart bus navigation system designed to help people book and track b
   <img src="images/Sandy_Tsp-01_Single-12.jpg" width="400" height="400" alt="Bus Tracking Interface">
 </p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[🔝 Back to Top](#readme-top)
 
 ---
 
-## 📞 Contact
+## Contact
 
-📌 **Project Link**: [GoRide Repository](https://shruti0781.github.io/go_ride/)  
+📌 **Project Link**: [GoRide Repository](https://shruti0781.github.io/go_ride/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[🔝 Back to Top](#readme-top)
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
+
 ```mermaid
 flowchart TB
   A[Home Page: index.html] --> B[Login Page: login.html]
